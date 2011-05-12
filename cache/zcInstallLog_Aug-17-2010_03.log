@@ -1,0 +1,85 @@
+---------------
+Aug 17 2010 3:44 -- inspect
+PHP中没有编译CURL - 请联系主机商。
+
+---------------
+Aug 17 2010 3:44 -- inspect
+PHP中没有编译CURL - 请联系主机商。
+
+---------------
+Aug 17 2010 3:44 -- inspect
+System Inspection Results: 
+------------------------------
+NA: 服务器 => Apache/2.2.4 (Win32) PHP/5.2.3
+NA: HTTP主机 => 127.0.0.1
+NA: 转换路径 => D:/AppServ/www/zencart_24185/zc_install/index.php(SCRIPT_FILENAME)
+NA: 真实路径 => D:\AppServ\www\zencart_24185
+NA: PHP O/S => WINNT
+NA: PHP API模式 => apache2handler
+NA: PHP页面最大执行时间 => 30
+WARN: Register Globals => <span class='errors'>ON</span>
+OK: MySQL支持 => ON
+OK: PHP版本 => 5.2.3
+OK: PHP Safe Mode => OFF
+OK: PHP Sessions 支持 => ON
+OK: PHP Session.AutoStart => OFF
+OK: PHP session.use_trans_sid => OFF
+OK: 建议SQL缓存目录 => D:/AppServ/www/zencart_24185/cache
+OK: PHP magic_quotes_runtime 设置 => OFF
+OK: PHP magic_quotes_sybase 设置 => OFF
+OK: PHP GD 支持 => ON
+OK: GD Version => GD bundled (2.0.34 compatible)
+OK: PHP ZLIB 压缩支持 => ON
+WARN: PHP cURL 支持 => OFF
+WARN: CURL 非SSL功能 => PHP中没有编译CURL - 请联系主机商。
+WARN: CURL SSL功能 => PHP中没有编译CURL - 请联系主机商。
+OK: PHP 上传支持 => ON  upload_max_filesize=2M;  post_max_size=8M
+OK: PHP 上传临时目录 => 
+NA: PHP include_path => .;C:\php5\pear
+NA: PHP SMTP 目标 => localhost
+NA: PHP sendmail 路径 => 
+NA: PHP sendmail 发件人 => 
+OK: PHP open_basedir 限制 => 
+WARN: PHP 输出缓存 (gzip) => OFF
+OK: PHP XML 支持 => ON
+OK: PHP Session.Save_Path => D:\AppServ\www\zencart_24185\cache-->可写
+OK: includes/configure.php =>  可写
+OK: admin/includes/configure.php =>  可写
+OK: cache => OK 777 read/write/execute
+OK: images => OK 777 read/write/execute (INCLUDE SUBDIRECTORIES TOO)
+OK: includes/languages/english/html_includes => OK 777 read/write (INCLUDE SUBDIRECTORIES TOO)
+OK: media => OK 777 read/write/execute
+OK: pub => OK 777 read/write/execute
+OK: admin/backups => OK 777 read/write
+OK: admin/images/graphs => OK 777 read/write/execute
+PHP Extensions compiled: bcmath, calendar, com_dotnet, ctype, session, filter, ftp, hash, iconv, json, odbc, pcre, Reflection, date, libxml, standard, tokenizer, zlib, SimpleXML, dom, SPL, wddx, xml, xmlreader, xmlwriter, apache2handler, dbase, gd, mbstring, mysql, mysqli, sockets, Zend Debugger
+------------------------------
+
+
+---------------
+Aug 17 2010 3:44 -- inspect
+PHP中没有编译CURL - 请联系主机商。
+
+---------------
+Aug 17 2010 3:44 -- inspect
+PHP中没有编译CURL - 请联系主机商。
+
+---------------
+Aug 17 2010 3:45 -- database_setup1
+Installer - Page: database_setup -- collected information: Array
+(
+    [language] => schinese
+    [DIR_FS_SQL_CACHE] => D:/AppServ/www/zencart_24185/cache
+    [DB_TYPE] => mysql
+    [DB_PREFIX] => 
+    [DB_CHARSET] => latin1
+    [DB_SERVER] => localhost
+    [DB_SERVER_USERNAME] => root
+    [DB_SERVER_PASSWORD] => TVRJek5EVTI=
+    [DB_DATABASE] => zencart_24185
+    [STORE_SESSIONS] => db
+    [USE_PCONNECT] => 
+    [SQL_CACHE_METHOD] => none
+)
+
+
